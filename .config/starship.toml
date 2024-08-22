@@ -92,8 +92,8 @@ disabled = true # disabled
 # success_symbol = "[❯](red)[❯](yellow)[❯](green)"
 # error_symbol = "[❯](red)[❯](red)[❯](red)"
 # vicmd_symbol = "[❮](green)[❮](yellow)[❮](red)"
-success_symbol = "[⨠](green)"
-error_symbol = "[⨠](red)"
+success_symbol = "[⨠ ](green)"
+error_symbol = "[⨠ ](red)"
 vicmd_symbol = "[⪻](yellow)"
 
 
