@@ -22,6 +22,7 @@ sleep 1
 ip link set $interface master br0
 sleep 1
 ip address del 192.168.8.138/24 dev $interface
+ip address del 192.168.8.103/24 dev $interface
 sleep 1
 
 #dhclient br0
